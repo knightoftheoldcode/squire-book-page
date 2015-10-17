@@ -1,0 +1,11 @@
+---
+slug: squire-book-page
+filename: squire-book-page
+title: Squire
+subtitle: Learn Web Development with Node and Angular
+description: The Squire Development book and screencast series teach you how to develop and deploy a real-world, production-ready web application geared toward starting a personal brand and development blog.
+author: Knight of the Old Code
+copyright: 2015
+uuid: ba550914-189b-4d32-b4ad-239cb031be25
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
