@@ -42,18 +42,22 @@ faq:
     question: "Have a question? Please contact us and ask it."
     answer: "...We will collect the common ones and answer them here."
 
+  -
+    question: "Have a question? Please contact us and ask it."
+    answer: "...We will collect the common ones and answer them here."
+
 testimonials:
   -
     name: "Merlin Ambrosius"
     title: "Principle Mythical Advisor to King Arthur Pendragon"
     image: /images/testimonial_merlin.jpg
-    text: "I got review access to all of the material and can confirm that, yes, these screencasts are magical… If you basically want to be able to peer “over the shoulder” of an experienced web developer and see how a modern development environment is set up and how apps are built, there’s nothing that can beat this. This isn’t a set of “build a blog in 15 minutes” videos—it’s a complete "build a blog in 15 days" course that could kick off a new career for you with JavaScript. [Snarky little wizard!]"
+    text: "I got review access to all of the material and can confirm that, yes, these screencasts are magical… If you basically want to be able to peer 'over the shoulder' of an experienced web developer and see how a modern development environment is set up and how apps are built, there’s nothing that can beat this. This isn’t a set of 'build a blog in 15 minutes' videos—it’s a complete 'build a blog in 15 days' course that could kick off a new career for you with JavaScript. [Snarky little wizard!]"
 
   -
     name: "Arthur Pendragon"
     title: "King of Camelot"
     image: /images/testimonial_arthur.jpg
-    text: "Verily I say unto thee: goest forth and purchase these tomes of great value. Camelot used to be "behind the times" at all the political events, but now we are at the forefront of the intersection of wizardry and technology. Please visit our website and sign our guestbook! [There is no mention of a guestbook feature in the tutorial...we can only assume that feature request was submitted to the camelot development team by Morgana le Fay.]"
+    text: "Verily I say unto thee: goest forth and purchase these tomes of great value. Camelot used to be 'behind the times' at all the political events, but now we are at the forefront of the intersection of wizardry and technology. Please visit our website and sign our guestbook! [There is no mention of a guestbook feature in the tutorial...we can only assume that feature request was submitted to the camelot development team by Morgana le Fay.]"
 
 marketing_content: ''
 
