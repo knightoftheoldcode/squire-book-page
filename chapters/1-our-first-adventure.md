@@ -1,25 +1,49 @@
-# Getting Started
-\label{cha:1_getting_started}
+# Our First Adventure
+\label{cha:1_our_first_adventure}
 
-## Overview
+Welcome to _[Squire: Learn Web Development with Node and Angular](http://http://squire-book.knightoftheoldcode.com/book)_. This, the first book in a three book series, will show how to build a starting AngularJS / NodeJS application from scratch. Throughout the process we will be forging "Squire", the software we're writing to power the Knight of the Old Code website (among others). Along the way, you'll follow along as you gain confidence in web development. You'll learn how to meld Squire to your desires, ending with a website showcasing your personal brand and serving as a professional development resume. You’ll also get some insight as to how  experienced developers iterate code to refine its functionality and avoid common pitfalls.
 
-This tutorial will show how to build a starting AngularJS / NodeJS application from scratch. Throughout the process you’ll get some insight as to how an experienced developer iterates code to refine its functionality and avoiding common pitfalls.
+Subsequent books in the series expand on the concepts and techniques taught in this first book, refining your website and adding features.
 
-[Such as pulling together the Angular and Node .gitignore files from github’s servers and incorporating them into the project before initializing the git repository and pushing code.]
+However, the knowledge contained within these tomes isn't only useful for creating a personal website. It is also more broadly useful to develop a range of web applications. We can promise you'll be instantly able to swear fealty to the nearest king and offer up your amazing bug hunting talent. We can't promise that he'll toss a dozen bounties and a fat purse of coins your way (though we'd be pretty surprised if that didn't happen).
 
-## Installation
+## Introduction
 
-Instead of maintaining installations on your development machines, I have slowly been moving toward Cloud platforms. My current favorite platform is Nitrous.io. In my opinion, their killer feature (available only to paid plans), is their Nitrous Desktop application, which allows you to sync your cloud code directory to the machine you're using. This allows you to use your preferred desktop environment including your editor.
+...
 
-If you plan on coding in the cloud with a browser (particularly if you're going to stick with a free plan), I'd suggest that Cloud9 might have a slight advantage due to the number of color themes available. You can also hack your own cloud development environment together with a server as a service platform such as Digital Ocean (by far my favorite "do it yourself" solution).
+### Prerequisites
 
-Regardless of which cloud provider you choose, they all should have really good support for Node.js (which is the basic building block of Angular). At the moment, I'll leave getting started with your cloud provider as an exercise to you.
+...
+
+### Conventions
+
+...
+
+## Gather Your Gear
+
+\begin{quote}
+An aspiring Knight is only as good as his gear. If you run into a dragon on that road over there, well you're going to get fried, regardless, really...they are *very* vicious. _However_, if you run into weaker creatures you want to ensure you have the proper equipment to defend yourself and attack the creatures.
+
+--- Merlin Ambrosius
+\end{quote}
+
+In an increasingly mobile world, I've slowly been moving toward Cloud platforms. All of my source code (including the source code comprising this very book) is stored in the cloud (on Github). All of my files are stored in a cloud document repository (iCloud, since I'm of the Order of Apple). All of the projects I collaborate on are stored in one cloud repository or another (Dropbox, Google Drive, etc).
+
+The exact hardware and software you use matters less now than ever. Find hardware, software, and services that *you* like and your happiness will reward you in spades.
+
+The development technology we will be using in this book to build your website (and ours) is fairly platform agnostic. It doesn't really matter if you're of the Order of Apple, Microsoft, or Google. All you'll need is a desktop or laptop computer (phones, tablets, and other mobile computing devices _are_ able to be used, but will suffer from some slight handicaps in the cloud environments we'll be using).
+
+Regardless of the sentiments above, there *are* fairly significant differences in the major hardware and software platforms. In order to minimize those (and to help facilitate being able to work on projects across devices and platforms) we recommend starting out with a cloud development environment.
+
+There is certainly value in eventually purchasing and maintaining what you consider to be your ultimate development environment. Future books will cover this subject in more detail, examining how the various Orders of hardware and software accomplish the magic of web development on highly-refined toolsets.
+
+My current favorite platforms are [Nitrous.io](https://www.nitrous.io) and [Cloud9](https://c9.io). As a Page working your way to Knighthood, the differences between the two are fairly minor.
+
+Regardless of which cloud provider you choose, they all should have really good support for Node.js (the basic foundation of JavaScript flavored web development). At the moment, I'll leave getting started with your cloud provider as an exercise to you. You should be able to find decent tutorials for getting Node setup with [either](https://www.nitrous.io/stacks/nodejs/) [service](https://docs.c9.io/v1.0/docs/create-a-workspace).
+
+[This will actually be fleshed out before the final version of the book with enough to get up and running. We'll include some basic setup information for each cloud service, a few screenshots, and links to further information.]
 
 *(I would love feedback as to any challenges you may have run into so that I can help clarify any "sticking points" without fully re-documenting stuff that those providers can more easily document).*
-
-Install Node:
-
-…
 
 ## Hello, Nurse!
 

@@ -4,4 +4,4 @@ maketitle
 tableofcontents
 preface.md
 mainmatter:
-1-getting-started.md
+1-our-first-adventure.md
